@@ -2,7 +2,7 @@
 
 
 🔭 I’m currently working on 
--  [Xdrop- Fasest File Transfer] (https://www.xdrop.app)
+-  [Xdrop- Fasest File Transfer](https://www.xdrop.app)
 
 👯 I’m looking to collaborate on 
   
